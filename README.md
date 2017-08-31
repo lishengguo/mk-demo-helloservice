@@ -39,6 +39,6 @@ $ npm start
 
 ## 6、访问webapi
 ```
-http://127.0.0.1:8000/v1
+<a href=http://127.0.0.1:8000/v1 target=_blank>http://127.0.0.1:8000/v1</a>
 ```
 

@@ -13,7 +13,7 @@ npm start
 $ npm i -g mk-tools
 ```
 
-## 2、创建空server
+## 2、创建server
 
 ```
 $ mk server helloService
@@ -33,13 +33,11 @@ $ mk compile website
 ```
 
 ## 5、启动server
- 
 ```
 $ npm start
 ```
 
 ## 6、访问webapi
- 
 ```
 http://127.0.0.1:8000/v1
 ```
